@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm muhammad-abubakar-143</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Abubakar</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
 - I’m currently studing **BS-Computer Science from Punjab University**
