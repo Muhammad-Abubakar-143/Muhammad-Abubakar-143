@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abubakar</h1>
 <h3 align="center">A passionate Software developer from Pakistan</h3>
 
-- I’m currently studing **BS-Computer Science from Punjab University**
+- I’m currently studying BS-Computer Science from Punjab University.
 
 - 🌱 I’m currently learning **Next Js, Ruby on Rails, PostgreSQL**
 
 - 🔭 I’m looking to collaborate on **Frontend Development**
 
-- 💬 Ask me about **React Js, Rudux, HTML, CSS,Bootstrap, Tailwindcss, Javascript, Typescript**
+- 💬 Ask me about **React Js, Redux, HTML, CSS, Bootstrap, Tailwindcss, Javascript, Typescript**
 
 - 📫 How to reach me **m3abubakar@gmail.com**
 
