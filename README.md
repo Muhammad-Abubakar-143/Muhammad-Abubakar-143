@@ -78,3 +78,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-abubakar-143&show_icons=true&locale=en" alt="muhammad-abubakar-143" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-abubakar-143&" alt="muhammad-abubakar-143" /></p>
+
+ 
+ #### Repo Showcase
+ 
+<p align="left">
+<a href="https://github.com/Muhammad-Abubakar-143/ReblateSols">
+<img width='auto' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abubakar-143&repo=ReblateSols&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B948E&icon_color=01D892" />
+</a>
+<a href="https://github.com/Muhammad-Abubakar-143/crm_reblate">
+<img width='auto' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abubakar-143&repo=crm_reblate&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B948E&icon_color=01D892" />
+</a>
+  <a href="https://github.com/Muhammad-Abubakar-143/AINA_Fe">
+<img width='auto' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Abubakar-143&repo=AINA_Fe&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B948E&icon_color=01D892" />
+</a>
+</p>
